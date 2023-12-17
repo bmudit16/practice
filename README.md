@@ -1,4 +1,4 @@
 # practice
 all the codes I have written while learning.
 <br>
-Author:- Mudit Bhatnagar
+Author:- Mudit Bhatnagar(author)
